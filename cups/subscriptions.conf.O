@@ -7,6 +7,6 @@ Owner asrsi
 Recipient dbus://
 LeaseDuration 900
 Interval 0
-ExpirationTime 1354008001
+ExpirationTime 1354012200
 NextEventId 1
 </Subscription>

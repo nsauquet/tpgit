@@ -15,3 +15,6 @@ PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 #
 
 10 *    * * *   root    ntpdate eduifs.iutc3.unicaen.fr
+
+#Plannification de GIT
+0 0 * * * root git status 

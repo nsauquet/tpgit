@@ -1,0 +1,16 @@
+
+[802-3-ethernet]
+duplex=full
+mac-address=90:FB:A6:E4:92:FC
+
+[connection]
+id=Connexion filaire 1
+uuid=f86f1a45-bd26-463f-82d9-afa85e68ee99
+type=802-3-ethernet
+timestamp=1352724839
+
+[ipv6]
+method=auto
+
+[ipv4]
+method=auto
